@@ -10,6 +10,10 @@ public class DemoGit
 	{
 		System.out.println("Hello this is m2");
 	}
+	public void m3()
+	{
+		System.out.println("Hello this is m3");
+	}
 	
     public static void main(String[] args) 
     {
